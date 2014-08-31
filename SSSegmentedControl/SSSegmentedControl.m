@@ -22,7 +22,7 @@
 //  SOFTWARE.
 //
 
-#import <UIImage+Additions/UIImage+Additions.h>
+#import <UIImage+BetterAdditions/UIImage+BetterAdditions.h>
 
 #import "SSSegmentedControl.h"
 
